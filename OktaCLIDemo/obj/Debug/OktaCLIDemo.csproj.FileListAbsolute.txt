@@ -1,0 +1,7 @@
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\obj\Debug\OktaCLIDemo.csprojAssemblyReference.cache
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\obj\Debug\OktaCLIDemo.csproj.CoreCompileInputs.cache
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\bin\Debug\OktaCLIDemo.exe.config
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\bin\Debug\OktaCLIDemo.exe
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\bin\Debug\OktaCLIDemo.pdb
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\obj\Debug\OktaCLIDemo.exe
+C:\Users\nickg\source\repos\OktaCLIDemo\OktaCLIDemo\obj\Debug\OktaCLIDemo.pdb
